@@ -57,6 +57,6 @@ namespace Pattern
 }        
 ```
 ## Output:
-![image](pat1)
+![image](pat1.png)
 ## Result:
 Hence, a C# program for a pascal's triangle is executed successfully.
